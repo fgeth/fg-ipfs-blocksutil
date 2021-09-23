@@ -1,4 +1,4 @@
-module github.com/ipfs/go-ipfs-blocksutil
+module github.com/fgeth/fg-ipfs-blocksutil
 
 go 1.16
 
