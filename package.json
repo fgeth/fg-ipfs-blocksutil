@@ -1,10 +1,10 @@
 {
   "author": "hsanjuan",
   "bugs": {
-    "url": "https://github.com/ipfs/go-ipfs-blocksutil"
+    "url": "https://github.com/fgeth/fg-ipfs-blocksutil"
   },
   "gx": {
-    "dvcsimport": "github.com/ipfs/go-ipfs-blocksutil"
+    "dvcsimport": "github.com/fgeth/fg-ipfs-blocksutil"
   },
   "gxDependencies": [
     {
